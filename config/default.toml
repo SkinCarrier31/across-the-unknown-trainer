@@ -1,0 +1,15 @@
+[trainer]
+tick_hz = 20
+resource_target = 99999
+overlay_alpha = 200
+
+[trainer.handlers]
+infinite_hull = true
+crew_stats = true
+resources = true
+overlay = false
+
+[trainer.crew_pinned_stats]
+0 = 99
+1 = 99
+2 = 99
