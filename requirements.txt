@@ -1,0 +1,10 @@
+# Star Trek: Voyager - Across the Unknown Trainer
+# Windows desktop trainer - Python 3.11+
+pywin32==306
+pymem==1.13.0
+keyboard==0.13.5
+pygame==2.5.2
+pydantic==2.6.1
+loguru==0.7.2
+requests==2.31.0
+colorama==0.4.6
