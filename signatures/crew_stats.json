@@ -1,0 +1,7 @@
+{
+  "build": "v1.0.4-steam",
+  "crew_array_base": 140931072,
+  "stride": 376,
+  "stat_off": 88,
+  "note": "CrewManager -> entries[0..8] -> iSkillLevel"
+}
