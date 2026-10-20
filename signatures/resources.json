@@ -1,0 +1,9 @@
+{
+  "build": "v1.0.4-steam",
+  "base": 140929024,
+  "chains": {
+    "latinum": [8, 24, 16],
+    "dilithium": [8, 24, 20],
+    "replicator_rations": [8, 24, 28]
+  }
+}
