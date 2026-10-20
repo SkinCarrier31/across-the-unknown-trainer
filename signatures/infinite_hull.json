@@ -1,0 +1,6 @@
+{
+  "build": "v1.0.4-steam",
+  "base": 140928598,
+  "chain": [16, 200, 48],
+  "note": "PlayerShip -> HullComponent -> fHullIntegrity"
+}
